@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="grp.xml(failed)">
+    <classes>
+      <class name="Mavensample.proj.facebookTestCase">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- Mavensample.proj.facebookTestCase -->
+      <class name="Mavensample.proj.googleTestCase">
+        <methods>
+          <include name="google"/>
+        </methods>
+      </class> <!-- Mavensample.proj.googleTestCase -->
+    </classes>
+  </test> <!-- grp.xml(failed) -->
+</suite> <!-- Failed suite [Suite] -->
