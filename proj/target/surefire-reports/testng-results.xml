@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-01-15T03:10:36Z" name="Command line suite" finished-at="2020-01-15T03:13:00Z" duration-ms="143842">
+  <suite started-at="2020-02-08T07:20:34Z" name="Command line suite" finished-at="2020-02-08T07:22:31Z" duration-ms="116364">
     <groups>
     </groups>
-    <test started-at="2020-01-15T03:10:36Z" name="Command line test" finished-at="2020-01-15T03:13:00Z" duration-ms="143842">
+    <test started-at="2020-02-08T07:20:34Z" name="Command line test" finished-at="2020-02-08T07:22:31Z" duration-ms="116364">
       <class name="Mavensample.proj.googleTestCase">
-        <test-method signature="google()[pri:0, instance:Mavensample.proj.googleTestCase@3c9d0b9d]" started-at="2020-01-15T03:12:21Z" name="google" finished-at="2020-01-15T03:13:00Z" duration-ms="38493" status="PASS">
+        <test-method signature="google()[pri:0, instance:Mavensample.proj.googleTestCase@3c9d0b9d]" started-at="2020-02-08T07:21:46Z" name="google" finished-at="2020-02-08T07:22:31Z" duration-ms="44464" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- google -->
       </class> <!-- Mavensample.proj.googleTestCase -->
       <class name="Mavensample.proj.facebookTestCase">
-        <test-method signature="Login()[pri:0, instance:Mavensample.proj.facebookTestCase@6dbb137d]" started-at="2020-01-15T03:10:36Z" name="Login" finished-at="2020-01-15T03:12:21Z" duration-ms="105124" status="PASS">
+        <test-method signature="Login()[pri:0, instance:Mavensample.proj.facebookTestCase@6dbb137d]" started-at="2020-02-08T07:20:34Z" name="Login" finished-at="2020-02-08T07:21:46Z" duration-ms="71821" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
